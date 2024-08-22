@@ -1,6 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
   <body>
-    <outline name="Bria" ID="0" description="The physical globe of the Fennic world. What we would call earth."/>
+    <outline name="Bria" ID="0" description="The physical globe of the Fennic world. What we would call earth.">
+      <outline name="Poikil - City" ID="1" description="City of the Leithardyr."/>
+      <outline name="Four Fens - Nation" ID="2">
+        <outline name="Fen 1" ID="3">
+          <outline name="New item" ID="4"/>
+        </outline>
+        <outline name="Fen 2" ID="5"/>
+        <outline name="Fen 3" ID="6"/>
+        <outline name="Fen 4" ID="7"/>
+      </outline>
+    </outline>
   </body>
 </opml>

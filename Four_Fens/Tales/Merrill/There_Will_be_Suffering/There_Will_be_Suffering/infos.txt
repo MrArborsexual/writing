@@ -3,6 +3,6 @@ Subtitle:       There Will Be Suffering
 Serie:          Tales of the Fens
 Volume:         1
 Genre:          Fantasy
-License:        CC BY-NC-SA
+License:        CC BY-NC-ND
 Author:         Mr. Arborsexual
-Email:          arborsexual@protonmail.com
+Email:          arborsexual@protonmail.ch
