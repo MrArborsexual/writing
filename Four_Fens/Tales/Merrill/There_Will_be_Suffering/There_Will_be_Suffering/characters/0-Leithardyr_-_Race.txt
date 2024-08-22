@@ -1,0 +1,13 @@
+Name:                Leithardyr - Race
+ID:                  0
+Importance:          0
+POV:                 True
+Motivation:          Seek to prove their individuality.
+Goal:                Prevent the slow extinction of their race.
+Conflict:            Insanity and personality abominations are becoming increasingly common in their offspring. This forces increasing numbers of cullings, and fewer Leithardyr allowing their offspring to live.
+Epiphany:            Their race can be saved by fresh bloodlines from males, however male Leithardyr are terrifying monstrosities that the Leithardyr came to the Fennic world to escape. That isn't an overstatement.
+Phrase Summary:      An ancient race of parthenogenic females, that is slowly going extinct.
+Color:               #96fc8a
+Height:              3' - 4'
+Weight:              ~40-50lbs
+Build:               Slight/Lithe/Slender

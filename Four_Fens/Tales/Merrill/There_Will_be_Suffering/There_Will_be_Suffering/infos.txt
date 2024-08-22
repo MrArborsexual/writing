@@ -1,0 +1,8 @@
+Title:          Merrill
+Subtitle:       There Will Be Suffering
+Serie:          Tales of the Fens
+Volume:         1
+Genre:          Fantasy
+License:        CC BY-NC-SA
+Author:         Mr. Arborsexual
+Email:          arborsexual@protonmail.com
